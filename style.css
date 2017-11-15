@@ -1,0 +1,59 @@
+body {background-color:	#B7BCC0;
+      }
+.page {
+         width: 700px;
+         height: 1400px;
+         position: relative;
+         margin: auto;
+         font-size: 16px;
+         font-family: 'source sans pro', calibri, Tahoma, sans-serif;
+         text-align:justify;
+         background-color: #66696B;
+         color: white;
+         }
+
+.header {
+         height: 250px;
+         }
+
+.pname {
+      float:left;
+         }
+h1 {
+  padding : 70px;
+}
+.plogo {
+       float: right;
+       padding : 30px
+       }
+
+.imgtext {
+         height: 420px;
+         }
+
+.imgtext1 {
+           height: 150;
+           padding: 30px;
+           margin: 10px;
+         }
+
+.text {
+       margin-left: 300px;
+       }
+
+.image {
+        float:left;
+        }
+
+footer {
+       background-color: black;
+       text-align:center;
+       margin-top: 665px;
+       font-size: 10px;
+       }
+
+
+.imgtext2 {
+           height: 270;
+           padding: 30px;
+           }
